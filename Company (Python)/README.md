@@ -11,5 +11,5 @@ class Companies(models.Model): <br>
 &emsp;&emsp;website = models.CharField(max_length=50) <br>
 &emsp;&emsp;company_type = models.CharField(max_length=5, choices=company_choices) <br>
 &emsp;&emsp;location = models.ForeignKey(Location, on_delete=models.CASCADE) <br><br>
-&emsp;&emsp;def \__str__(self): <br>
+&emsp;&emsp;def \_\_str\_\_(self): <br>
 &emsp;&emsp;&emsp;return f"{self.company_type} {self.name}"
