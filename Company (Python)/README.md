@@ -3,7 +3,7 @@ Perform the actions of: <br>
 * add new company
 * edit company data
 * activate company data
-* deactivate company data
+* deactivate company data <br>
 for the model: <br><br>
 class Companies(models.Model):
     company_choices = (('SRL', 'S.R.L.'),
