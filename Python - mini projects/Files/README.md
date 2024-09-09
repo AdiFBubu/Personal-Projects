@@ -11,16 +11,16 @@
 &emsp;The data is saved in files. There will be two files: one for categories and one containing: tasks, due date, responsible person, category. <br><br>
 &emsp;**Additional requirements:** <br>
 &emsp;A menu is displayed from which the user can choose to perform the following operations: <br><br>
-&emsp;&emsp;I.List data: in the initial data display a sort by category is performed. <br><br>
-&emsp;&emsp;II.Sort: select one of the 8 options below: <br>
-* ascending sort task
-* task descending sort
-* sort ascending date
-* sort descending date
-* sort ascending person responsible
-* top-down sort person responsible
-* sort ascending category
-* sort descending category
+&emsp;&emsp;I. List data: in the initial data display, a sort by category is performed. <br><br>
+&emsp;&emsp;II. Sort: select one of the 8 options below: <br>
+* ascending sort by task
+* descending sort by task
+* ascending sort by date
+* descending sort by date
+* ascending sort by person responsible
+* descending sort by person responsible
+* ascending sort by category
+* descending sort by category
 
 &emsp;&emsp;III. Data filtering: data filtering is actually a listing of data according to certain details given from the keyboard. The filtering criteria are: (the field by which filtering is performed is requested from the keyboard) <br>
 * Task
@@ -34,4 +34,4 @@
 &emsp;&emsp;V. Edit the task, date, person or category details of a particular task chosen by the user from the keyboard (when this option is requested, the list of tasks will be listed with a unique identifier per row, so that the user knows what information to edit) <br><br>
 &emsp;&emsp;VI. Delete a task from the initial list. <br>
 &emsp;Attention! You must be careful that a category can only exist once (duplicates are not accepted, e.g. course, shopping, work, gifts, course is wrong) <br>
-&emsp;Also, when adding tasks care should be taken when comparing task texts, if the respective text exists, it cannot be added.
+&emsp;Also, when adding tasks, care should be taken when comparing task texts, if the respective text exists, it cannot be added.
