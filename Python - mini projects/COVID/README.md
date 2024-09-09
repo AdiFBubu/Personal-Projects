@@ -8,4 +8,4 @@ NR. CRT | County | 01.03 | 02.03 | 03.03 | 04.03 | 05.03 |
 ... | ... | ... | ... | ... | ... | ... |
 Total | ... | ... | ... | ... | ... | ... | ... | ... |  
 
-The values in the tables for the days represent the number of confirmed cases (total) 
+&emsp;The values in the tables for the days represent the number of confirmed cases (total) 
