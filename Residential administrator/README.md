@@ -1,4 +1,4 @@
-Administrator bloc
+Administrator bloc <br>
 Creați o aplicație care permite:
 · gestiunea unei liste de locatari. Locatar: apartament, nume proprietar, suprafața, tip 
 apartament
