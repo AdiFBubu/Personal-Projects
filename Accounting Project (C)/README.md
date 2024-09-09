@@ -10,5 +10,5 @@
 &emsp;8. Data Export and Import: Offer options for exporting and importing financial data in and out of various file formats (e.g., CSV, Excel, PDF export).<br>
 &emsp;9. Input Data Validation: Perform checks on user-entered data to prevent errors or incorrect data. <br>
 &emsp;10. Error and Exception Handling: Implement a system for proper error handling and handling exceptional situations that may arise during the accounting process. <br>
-&emsp;11. Audit and Logging: Maintain an activity log and provide audit capabilities to track changes and activities related to accounts.
+&emsp;11. Audit and Logging: Maintain an activity log and provide audit capabilities to track changes and activities related to accounts.<br>
 &emsp;12. Documentation and Comments: Document the code (PDF) and add comments to make it easier to understand.
