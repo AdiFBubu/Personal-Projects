@@ -1,6 +1,6 @@
 * Add a category that the task belongs to. (E.g. course)
 
-  Attention, the category must exist. If it does not exist, an error message is displayed.
+Attention, the category must exist. If it does not exist, an error message is displayed.
 
 
 &emsp;You are asked to make a to-do list. <br>
