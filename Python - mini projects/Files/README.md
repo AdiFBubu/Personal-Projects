@@ -34,4 +34,4 @@
 &emsp;&emsp;V. Edit the task, date, person or category details of a particular task chosen by the user from the keyboard (when this option is requested, the list of tasks will be listed with a unique identifier per row, so that the user knows what information to edit) <br><br>
 &emsp;&emsp;VI. Delete a task from the initial list. <br>
 &emsp;Attention! You must be careful that a category can only exist once (duplicates are not accepted, e.g. course, shopping, work, gifts, course is wrong) <br>
-&emsp;Also, when adding tasks, care should be taken when comparing task texts, if the respective text exists, it cannot be added.
+&emsp;Also, when adding tasks, care should be taken when comparing task texts: if the respective text exists, it cannot be added.
