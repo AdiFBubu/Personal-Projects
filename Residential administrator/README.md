@@ -18,6 +18,6 @@ Encapsulation
 Abstraction
 Memory Management
 GUI Application (QT)
-..* Observer Pattern
-..* QT Model / View
-..* Painter
+* Observer Pattern
+* QT Model / View
+* Painter
