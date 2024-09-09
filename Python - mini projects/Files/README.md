@@ -1,4 +1,5 @@
-* Add a category that the task belongs to. (E.g. course)  
+* Add a category that the task belongs to. (E.g. course)
+
   Attention, the category must exist. If it does not exist, an error message is displayed.
 
 
