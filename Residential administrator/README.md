@@ -1,14 +1,14 @@
 <strong>Residential administrator</strong><br>
 Create an application that allows:<br>
-&emsp;&emsp;- management of a list of tenants -> Tenant: apartment, owner name, area, apartment type 
-&emsp;&emsp;- add, delete, modify and display tenants 
-&emsp;&emsp;- apartment search 
-&emsp;&emsp;- filter apartments by: apartment type, area 
-&emsp;&emsp;- sort apartments by: owner name, area, apartment type + area <br>
+&emsp;&emsp;- management of a list of tenants -> Tenant: apartment, owner name, area, apartment type <br>
+&emsp;&emsp;- add, delete, modify and display tenants <br>
+&emsp;&emsp;- apartment search <br>
+&emsp;&emsp;- filter apartments by: apartment type, area <br>
+&emsp;&emsp;- sort apartments by: owner name, area, apartment type + area <br><br>
 
 Replace the std::vector class with your own parameterized class (Template) that implements a list using the chained list or dynamic vector data structure <br><br>
 
-Data validation: The user is notified by a message if: 
+Data validation: The user is notified by a message if: <br>
 * enters wrong input values;
 * tries to add an entity twice;
 * tries to delete / modify a non-existent entity <br> (exceptions will be used) <br><br>
