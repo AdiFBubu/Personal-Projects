@@ -8,11 +8,11 @@
 
 &emsp;Attention, the category must exist. If it does not exist, an error message is displayed. <br>
 &emsp;There will be the possibility to add an unlimited number of tasks, even after the user confirms that they are done entering tasks. <br>
-&emsp;The data is saved in files. There will be two files: one for categories and one containing: tasks, due date, responsible person, category. <br>
+&emsp;The data is saved in files. There will be two files: one for categories and one containing: tasks, due date, responsible person, category. <br><br>
 &emsp;**Additional requirements:** <br>
 &emsp;A menu is displayed from which the user can choose to perform the following operations: <br>
-&emsp;&emsp;I.List data: in the initial data display a sort by category is performed.
-&emsp;&emsp;II.Sort: select one of the 8 options below:
+&emsp;&emsp;I.List data: in the initial data display a sort by category is performed. <br><br>
+&emsp;&emsp;II.Sort: select one of the 8 options below: <br>
 * ascending sort task
 * task descending sort
 * sort ascending date
@@ -20,7 +20,8 @@
 * sort ascending person responsible
 * top-down sort person responsible
 * sort ascending category
-* sort descending category <br><br>
+* sort descending category
+
 &emsp;&emsp;III. Data filtering: data filtering is actually a listing of data according to certain details given from the keyboard. The filtering criteria are: (the field by which filtering is performed is requested from the keyboard) <br>
 * Task
 * Date
