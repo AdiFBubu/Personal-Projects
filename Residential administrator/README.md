@@ -28,12 +28,12 @@ Data validation: The user is notified by a message if: <br>
 
 &emsp;Add "undo" for the operations: add, delete and modify. For implementation use inherit and polymorphism <br><br>
 
-**GUI** <br>
+&emsp;&emsp;**GUI** <br><br>
 &emsp;Create the graphical user interface using Qt for the application you are working on. <br>
 &emsp;Windows are created from code, without window designers, drag&drop etc. All functionality in the application must be accessible using the user interface <br>
 &emsp;There must be at least 2 windows in the application. <br> <br>
 
-**Observer Pattern** <br>
+**1. Observer Pattern** <br>
 &emsp;Create two different windows showing the contents of the list (CosCRUDGUI, CosReadOnlyGUI): <br>
 * CosCRUDGUI - contains a list or table (the items in the list) and buttons for empty/generate.
 * CosReadOnlyGUI - use drawing to show the number of items in the list. Geometric figures or images on random positions appear on this window. So many as many figures as the list has elements. <br>
@@ -44,7 +44,7 @@ Data validation: The user is notified by a message if: <br>
 
 &emsp;**Attention!** Each window shows the contents of that list. Any modification of the basket must be automatically visible in all open windows (use the Observer template). <br><br>
 
-**Model / View** <br>
+**2. Model / View** <br>
 &emsp;For the List/Table to use Qt View/Model components ( classes QListView / QTableView ). Create your own model, a class that extends QAbstractListModel or QAbstractTableModel. For the List/Table use QT View / Model components ( the QListView / QTableView ). Create your own model, a class that extends QAbstractListModel or QAbstractTableModel. <br><br>
 
 **Keywords**: Entity, Const Correctness, Templates, Data Validation, UML Diagram, STL Algorithms, Exceptions, Inheritance, Polymorphism, Encapsulation, Abstraction
