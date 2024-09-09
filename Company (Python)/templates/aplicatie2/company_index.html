@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+{% block content %}
+    <a class="btn btn-primary", href="{% url 'aplicatie2:adaugare' %}">Adaugare companie</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Index</th>
+                <th>Name</th>
+                <th>Website</th>
+                <th>Company Type</th>
+                <th>Location</th>
+                <th>State</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            {% for item in companies_list %}
+                <tr>
+                    <td>{{ forloop.counter }}</td>
+                    <td>{{ item.name }}</td>
+                    <td>{{ item.website }}</td>
+                    <td>{{ item.company_type }}</td>
+                    <td>{{ item.location }}</td>
+                    <td>
+                    {% if item.active == 0 %}
+                        Inactiv
+                    {% else %}
+                        Activ
+                    {% endif %}
+                    </td>
+                    <td>
+                        <a class="btn btn-success" href="{% url 'aplicatie2:modificare' item.id %}">Editare</a>
+                        {% if item.active == 0 %}
+                            <a class="btn btn-danger" href="{% url 'aplicatie2:activare' item.id %}">Activeaza</a>
+                        {% else %}
+                            <a class="btn btn-danger" href="{% url 'aplicatie2:dezactivare' item.id %}">Dezactiveaza</a>
+                        {% endif %}
+                    </td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}

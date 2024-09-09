@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+{% block content %}
+
+    Data curenta: {{ data_curenta }}<br>
+    <a class = "btn btn-primary" href = "{% url 'aplicatie1:adaugare' %}">Adaugare locatii</a>
+    <table class = "table">
+        <thead>
+            <tr>
+                <th>Index</th>
+                <th>City</th>
+                <th>Country</th>
+                <th>State</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            {% for item in location_list %}
+                <tr>
+                    <td>{{ forloop.counter }}</td>
+                    <td>{{ item.city }}</td>
+                    <td>{{ item.country }}</td>
+                    <td>
+                        {% if item.active == 0 %}
+                            Inactiv
+                        {% else %}
+                            Activ
+                        {% endif %}
+                    </td>
+                    <td>
+                        <a class = "btn btn-success" href = "{% url 'aplicatie1:modificare' item.id %}">Editare</a>
+                        {% if item.active == 0 %}
+                            <a class = "btn btn-danger" href = {% url 'aplicatie1:activeaza' item.id %}>Activeaza</a>
+                        {% else %}
+                            <a class = "btn btn-danger" href = {% url 'aplicatie1:dezactiveaza' item.id %}>Dezactiveaza</a>
+                        {% endif %}
+                    </td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
