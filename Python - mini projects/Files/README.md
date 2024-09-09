@@ -28,7 +28,7 @@
 * Person responsible
 * Category
 
-&emsp;After choosing the field from the keyboard, you are asked to enter a string used for filtering in the initial list of data, so that only the data containing/beginning with the entered value remain in the initial list.
+&emsp;After choosing the field from the keyboard, you are asked to enter a string used for filtering in the initial list of data, so that only the data containing/beginning with the entered value remain in the initial list.<br>
 &emsp;The remaining list is displayed <br><br>
 &emsp;&emsp;IV. Adding a new task to the initial list <br><br>
 &emsp;&emsp;V. Edit the task, date, person or category details of a particular task chosen by the user from the keyboard (when this option is requested, the list of tasks will be listed with a unique identifier per row, so that the user knows what information to edit) <br><br>
