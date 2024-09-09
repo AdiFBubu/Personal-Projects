@@ -15,4 +15,4 @@ class Companies(models.Model):
     location = models.ForeignKey(Location, on_delete=models.CASCADE) <br>
 
     def __str__(self): <br>
-        return f"{self.company_type} {self.name}"
+  &emsp;&emsp;return f"{self.company_type} {self.name}"
