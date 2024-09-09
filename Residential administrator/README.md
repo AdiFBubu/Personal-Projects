@@ -1,8 +1,3 @@
-Administrator bloc <br>
-Creați o aplicație care permite:
-· gestiunea unei liste de locatari. Locatar: apartament, nume proprietar, suprafața, tip 
-apartament
-· adăugare, ștergere, modificare și afișare locatari
-· căutare apartament
-· filtrare apartamente după: tip apartament, suprafața
-· sortare apartamente după: nume proprietar, suprafața, tip apartament + suprafața
+<strong>Residential administrator</strong><br>
+Create an application that allows:<br>
+<t>- management of a list of tenants. Tenant: apartment, owner name, area, apartment type - add, delete, modify and display tenants - apartment search - filter apartments by: apartment type, area - sort apartments by: owner name, area, apartment type + area
