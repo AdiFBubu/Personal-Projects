@@ -4,7 +4,7 @@
 * you will be prompted, one at a time, to enter a task from the keyboard (e.g: homework solving)
 * you will be asked to enter a deadline for the task (e.g: 22.01.2022 21:30)
 * add a person responsible for the task (e.g: Ion Vasile)
-* add a category that the task belongs to. (E.g. course)  <br>
+* add a category that the task belongs to. (E.g. course)  
 &emsp;Attention, the category must exist. If it does not exist, an error message is displayed. <br>
 &emsp;There will be the possibility to add an unlimited number of tasks, even after the user confirms that they are done entering tasks. <br>
 &emsp;The data is saved in files. There will be two files: one for categories and one containing: tasks, due date, responsible person, category. <br>
