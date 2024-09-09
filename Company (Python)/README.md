@@ -5,14 +5,11 @@ Perform the actions of: <br>
 * activate company data
 * deactivate company data <br><br>
 for the model: <br><br>
-class Companies(models.Model):
-    company_choices = (('SRL', 'S.R.L.'),
-                       ('SA', 'S.A.'))
-
-    name = models.CharField(max_length=100) <br>
-    website = models.CharField(max_length=50) <br>
-    company_type = models.CharField(max_length=5, choices=company_choices) <br>
-    location = models.ForeignKey(Location, on_delete=models.CASCADE) <br>
-
-    def __str__(self): <br>
-  &emsp;&emsp;return f"{self.company_type} {self.name}"
+class Companies(models.Model): <br>
+&emsp;company_choices = (('SRL', 'S.R.L.'), ('SA', 'S.A.')) <br>
+&emsp;name = models.CharField(max_length=100) <br>
+&emsp;website = models.CharField(max_length=50) <br>
+&emsp;company_type = models.CharField(max_length=5, choices=company_choices) <br>
+&emsp;location = models.ForeignKey(Location, on_delete=models.CASCADE) <br><br>
+&emsp;&emsp;&emsp;&emsp;def __str__(self): <br>
+&emsp;&emsp;return f"{self.company_type} {self.name}"
