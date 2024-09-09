@@ -1,7 +1,7 @@
 &emsp;You are asked to make a to-do list. <br>
 &emsp;In the first phase add the desired categories from the keyboard (example: enter the task categories: / possible answers: class, shopping, work, gifts, etc.) <br>
 &emsp;Requirements:<br>
-*you will be prompted, one at a time, to enter a task from the keyboard (e.g: homework solving)
+  * you will be prompted, one at a time, to enter a task from the keyboard (e.g: homework solving)
 *you will be asked to enter a deadline for the task (e.g: 22.01.2022 21:30)
 *add a person responsible for the task (e.g: Ion Vasile)
 *add a category that the task belongs to. (E.g. course) <br><br> 
