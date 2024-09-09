@@ -10,7 +10,7 @@
 &emsp;There will be the possibility to add an unlimited number of tasks, even after the user confirms that they are done entering tasks. <br>
 &emsp;The data is saved in files. There will be two files: one for categories and one containing: tasks, due date, responsible person, category. <br><br>
 &emsp;**Additional requirements:** <br>
-&emsp;A menu is displayed from which the user can choose to perform the following operations: <br>
+&emsp;A menu is displayed from which the user can choose to perform the following operations: <br><br>
 &emsp;&emsp;I.List data: in the initial data display a sort by category is performed. <br><br>
 &emsp;&emsp;II.Sort: select one of the 8 options below: <br>
 * ascending sort task
@@ -26,7 +26,8 @@
 * Task
 * Date
 * Person responsible
-* Category <br>
+* Category
+
 &emsp;After choosing the field from the keyboard, you are asked to enter a string used for filtering in the initial list of data, so that only the data containing/beginning with the entered value remain in the initial list.
 &emsp;The remaining list is displayed <br><br>
 &emsp;&emsp;IV. Adding a new task to the initial list <br><br>
