@@ -7,12 +7,12 @@
 
 &emsp;&emsp;**1.First window - overview window**<br>
 ![image](https://github.com/user-attachments/assets/518072e1-83fe-4e8a-b42a-aa071b7fe7e7) <br><br>
-&emsp;&emsp;By pressing the button - "Let's get started!" you will access the main window - with the computer science exercises. <br><br>
+&emsp;&emsp;By pressing the button - "Sa incepem!" you will access the main window - with the computer science exercises. <br><br>
 &emsp;&emsp;**2. Second window - solving the 20 exercises**<br>
 ![image](https://github.com/user-attachments/assets/3702bcd9-5c9b-42ff-92c4-6b2cef674564) <br><br>
 &emsp;&emsp;This window contains 20 execises, each with 4 suggested answers, only one of which is correct. At the end of solving all the execises, a message will be displayed with a short statistic of the user's evaluation<br>
 ![image](https://github.com/user-attachments/assets/a20cb91b-bcba-45c1-b29f-410b086ddc02) <br><br>
-&emsp;&emsp;As the exercises are solved, the user can interact with the button - "Are you bored? Come on, let's play!", which opens the last window - the PAC-MAN game. Note that the user's progress within the execises is saved (when returning from the PAC-MAN game window, the user will have to solve the exercise he/she was stuck on before accessing the button to the game). <br><br>
+&emsp;&emsp;As the exercises are solved, the user can interact with the button - "Te-ai plictisit? Come on, let's play!", which opens the last window - the PAC-MAN game. Note that the user's progress within the execises is saved (when returning from the PAC-MAN game window, the user will have to solve the exercise he/she was stuck on before accessing the button to the game). <br><br>
 
 &emsp;&emsp;**3.Third window - the PAC-MAN game**<br>
 ![image](https://github.com/user-attachments/assets/dbc9f00f-cf61-463f-b828-2f86879b5dbd) <br><br>
