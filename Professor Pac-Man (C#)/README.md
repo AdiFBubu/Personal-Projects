@@ -7,7 +7,7 @@
 
 &emsp;&emsp;**1.First window - overview window**<br>
 ![image](https://github.com/user-attachments/assets/518072e1-83fe-4e8a-b42a-aa071b7fe7e7) <br><br>
-&emsp;&emsp;By pressing the button - "Sa incepem!" you will access the main window - that with the computer science exercises. <br><br>
+&emsp;&emsp;By pressing the button - "Sa incepem!" you will access the main window - the one with the computer science exercises. <br><br>
 &emsp;&emsp;**2. Second window - solving the 20 exercises**<br>
 ![image](https://github.com/user-attachments/assets/3702bcd9-5c9b-42ff-92c4-6b2cef674564) <br><br>
 &emsp;&emsp;This window contains 20 execises, each with 4 suggested answers, only one of which is correct. At the end of solving all the execises, a message will be displayed with a short statistic of the user's evaluation<br>
@@ -16,4 +16,4 @@
 
 &emsp;&emsp;**3.Third window - the PAC-MAN game**<br>
 ![image](https://github.com/user-attachments/assets/dbc9f00f-cf61-463f-b828-2f86879b5dbd) <br><br>
-&emsp;&emsp;Once in this window, the game starts. The aim of the game is to collect all 34 coins without being touched by the 3 moving ghosts and without hitting the green walls. In this case, the message "You win!" will be displayed at the end. However, if one of the unfavorable events, mentioned above, occurs, the game stops with the message: "You lose!". To restart the game, press the ENTER key. When the user feels it is time to go back to solving the grid, all he has to do is press the red "X" button in the top-right corner.
+&emsp;&emsp;Once you get to this window, the game starts. The aim of the game is to collect all 34 coins without being touched by the 3 moving ghosts and without hitting the green walls. In this case, the message "You win!" will be displayed at the end. However, if one of the unfavorable events (mentioned above) occurs, the game stops with the message: "You lose!". To restart the game, press the ENTER key. When the user feels it is time to go back to solving the exercises, all he has to do is press the red "X" button in the top-right corner.
