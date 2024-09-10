@@ -1,0 +1,13 @@
+D:\Games\Microsoft Visual Studio\Projects\Profesorul Pac-Man\Profesorul Pac-Man\bin\Debug\Profesorul Pac-Man.exe.config
+D:\Games\Microsoft Visual Studio\Projects\Profesorul Pac-Man\Profesorul Pac-Man\bin\Debug\Profesorul Pac-Man.exe
+D:\Games\Microsoft Visual Studio\Projects\Profesorul Pac-Man\Profesorul Pac-Man\bin\Debug\Profesorul Pac-Man.pdb
+D:\Games\Microsoft Visual Studio\Projects\Profesorul Pac-Man\Profesorul Pac-Man\obj\Debug\Profesorul Pac-Man.csproj.AssemblyReference.cache
+D:\Games\Microsoft Visual Studio\Projects\Profesorul Pac-Man\Profesorul Pac-Man\obj\Debug\Profesorul Pac-Man.csproj.SuggestedBindingRedirects.cache
+D:\Games\Microsoft Visual Studio\Projects\Profesorul Pac-Man\Profesorul Pac-Man\obj\Debug\Profesorul_Pac_Man.Form1.resources
+D:\Games\Microsoft Visual Studio\Projects\Profesorul Pac-Man\Profesorul Pac-Man\obj\Debug\Profesorul_Pac_Man.Properties.Resources.resources
+D:\Games\Microsoft Visual Studio\Projects\Profesorul Pac-Man\Profesorul Pac-Man\obj\Debug\Profesorul Pac-Man.csproj.GenerateResource.cache
+D:\Games\Microsoft Visual Studio\Projects\Profesorul Pac-Man\Profesorul Pac-Man\obj\Debug\Profesorul Pac-Man.csproj.CoreCompileInputs.cache
+D:\Games\Microsoft Visual Studio\Projects\Profesorul Pac-Man\Profesorul Pac-Man\obj\Debug\Profesorul Pac-Man.exe
+D:\Games\Microsoft Visual Studio\Projects\Profesorul Pac-Man\Profesorul Pac-Man\obj\Debug\Profesorul Pac-Man.pdb
+D:\Games\Microsoft Visual Studio\Projects\Profesorul Pac-Man\Profesorul Pac-Man\obj\Debug\Profesorul_Pac_Man.Form2.resources
+D:\Games\Microsoft Visual Studio\Projects\Profesorul Pac-Man\Profesorul Pac-Man\obj\Debug\Profesorul_Pac_Man.Pagina_prezentare.resources
