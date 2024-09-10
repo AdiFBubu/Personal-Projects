@@ -5,7 +5,7 @@
 &emsp;&emsp;**STRUCTURE OF THE INFORMATION PRODUCT**<br>
 ![image](https://github.com/user-attachments/assets/e7cbda87-1f13-47a2-ba3e-8ba63306b6d6) <br><br>
 
-&emsp;&emsp;**1.First window - overview page**<br>
+&emsp;&emsp;**1.First window - overview window**<br>
 ![image](https://github.com/user-attachments/assets/518072e1-83fe-4e8a-b42a-aa071b7fe7e7) <br><br>
 &emsp;&emsp;By pressing the button - "Let's get started!" you will access the main window - with the computer science exercises. <br><br>
 &emsp;&emsp;**2. Second window - solving the 20 exercises**<br>
