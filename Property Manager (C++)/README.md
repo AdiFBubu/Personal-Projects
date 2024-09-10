@@ -1,4 +1,4 @@
-<strong>Residential administrator</strong><br><br>
+<strong>Property Manager</strong><br><br>
 Create an application that allows:<br>
 &emsp;&emsp;- management of a list of tenants -> Tenant: apartment, owner name, area, apartment type <br>
 &emsp;&emsp;- add, delete, modify and display tenants <br>
