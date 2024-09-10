@@ -7,7 +7,7 @@
 
 &emsp;&emsp;**1.First window - overview window**<br>
 ![image](https://github.com/user-attachments/assets/518072e1-83fe-4e8a-b42a-aa071b7fe7e7) <br><br>
-&emsp;&emsp;By pressing the button - "Sa incepem!" you will access the main window - with the computer science exercises. <br><br>
+&emsp;&emsp;By pressing the button - "Sa incepem!" you will access the main window - that with the computer science exercises. <br><br>
 &emsp;&emsp;**2. Second window - solving the 20 exercises**<br>
 ![image](https://github.com/user-attachments/assets/3702bcd9-5c9b-42ff-92c4-6b2cef674564) <br><br>
 &emsp;&emsp;This window contains 20 execises, each with 4 suggested answers, only one of which is correct. At the end of solving all the execises, a message will be displayed with a short statistic of the user's evaluation<br>
